@@ -21,5 +21,3 @@
 -Storage: Local filesystem / SQLite
 
 -Notifications: Gmail API for automated alerts
-[![Watch the video](https://img.youtube.com/vi/zTk6r0TPUOk/0.jpg)](https://youtu.be/zTk6r0TPUOk?si=23y7pHPIzbSdyvuB)
-
