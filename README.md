@@ -1,23 +1,23 @@
-Key Features:
+1. Key Features:
 
-Real-time suspicious activity detection
+-Real-time suspicious activity detection
 
-Automated alerting with captured evidence
+-Automated alerting with captured evidence
 
-Agentic AI guidance for staff
+-Agentic AI guidance for staff
 
-Event logging and analytics
+-Event logging and analytics
 
-Streamlit-based interactive dashboard
+-Streamlit-based interactive dashboard
 
-Technology Stack:
+2. Technology Stack:
 
-Frontend/UI: Streamlit
+-Frontend/UI: Streamlit
 
-Computer Vision: YOLOv8/YOLOv10 for detection
+-Computer Vision: YOLOv8/YOLOv10 for detection
 
-Agentic AI: Gemini API for staff guidance
+-Agentic AI: Gemini API for staff guidance
 
-Storage: Local filesystem / SQLite
+-Storage: Local filesystem / SQLite
 
-Notifications: Gmail API for automated alerts
+-Notifications: Gmail API for automated alerts
