@@ -6,9 +6,9 @@ Edit these values with your own credentials.
 # Email Alert Configuration
 EMAIL_CONFIG = {
     "enabled": True,  # Set to True to enable email alerts
-    "sender_email": "jashkaransaini10@gmail.com",  # Your Gmail address
-    "sender_password": "pssl dumv rxco fohm",  # Gmail App Password (16 characters)
-    "recipient_emails": ["jashkarnsingh10@gmail.com"],  # Who to notify
+    "sender_email": "",  # Your Gmail address
+    "sender_password": "",  # Gmail App Password (16 characters)
+    "recipient_emails": [""],  # Who to notify
 }
 
 
